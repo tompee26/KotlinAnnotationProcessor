@@ -1,2 +1,3 @@
 # KotlinAnnotationProcessor
-Kotlin Annotation Processor tutorial
+
+This is a sample application demonstrating annotation processing and code generation using Kotlin.
